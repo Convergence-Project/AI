@@ -1,0 +1,10 @@
+__pycache__/
+
+.idea/
+
+csv/
+
+csv_change.ipynb
+
+generate_blank.ipynb
+
